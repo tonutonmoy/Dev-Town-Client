@@ -1,8 +1,20 @@
-# React + Vite
+# Dev-Town Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+* I have deployed my client side code on firebase and server side on vercel.
+* Here is my live-site link: https://dev-town-51725.web.app/
 
-Currently, two official plugins are available:
+# Main requirements:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Used React.js for the frontend implementation.
+* Tailwind-CSS for styling the components.
+* The web page is visually appealing and responsive.
+* Used smooth transitions or animations for user interactions.
+* Implemented filtering and sorting functionality for the products.
+* Created a pagination system to display a reasonable number of products per page.
+
+# Extra features:
+
+* Implemented responsive navigation system.
+* View detail page .
+* Profile page .
+* Implemented responsive footer .
