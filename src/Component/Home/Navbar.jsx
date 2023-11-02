@@ -83,7 +83,9 @@ const Navbar = () => {
                 <div className="absolute top-20 right-0 bg-gray-900 text-white py-2 w-40 z-10 navbar-dropdown">
                   <ul className='pl-5 py-2'>
                   <Link to='/' className="hover:text-gray-200" href="/">Home</Link>
+                  <div>
                   <Link to='/profilePage' className="hover:text-gray-200" href="/">Profile</Link>
+                  </div>
                 <li><a className="hover:text-gray-200" href="#">Collections</a></li>
                 <li><a className="hover:text-gray-200" href="#">Contact Us</a></li>
                     {/* Add more dropdown items as needed */}

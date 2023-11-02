@@ -15,6 +15,6 @@
 # Extra features:
 
 * Implemented responsive navigation system.
-* View detail page .
-* Profile page .
-* Implemented responsive footer .
+* View detail page.
+* Profile page.
+* Implemented responsive footer.
